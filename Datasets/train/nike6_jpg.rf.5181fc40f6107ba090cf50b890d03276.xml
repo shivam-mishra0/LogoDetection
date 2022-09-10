@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>nike6_jpg.rf.5181fc40f6107ba090cf50b890d03276.jpg</filename>
+	<path>nike6_jpg.rf.5181fc40f6107ba090cf50b890d03276.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>69</xmin>
+			<xmax>227</xmax>
+			<ymin>229</ymin>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

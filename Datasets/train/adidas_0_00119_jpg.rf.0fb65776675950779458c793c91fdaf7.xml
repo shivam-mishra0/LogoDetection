@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>adidas_0_00119_jpg.rf.0fb65776675950779458c793c91fdaf7.jpg</filename>
+	<path>adidas_0_00119_jpg.rf.0fb65776675950779458c793c91fdaf7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>addidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>197</xmin>
+			<xmax>270</xmax>
+			<ymin>22</ymin>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+</annotation>

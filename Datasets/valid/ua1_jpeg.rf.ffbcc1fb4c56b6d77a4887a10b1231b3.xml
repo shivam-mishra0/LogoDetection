@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ua1_jpeg.rf.ffbcc1fb4c56b6d77a4887a10b1231b3.jpg</filename>
+	<path>ua1_jpeg.rf.ffbcc1fb4c56b6d77a4887a10b1231b3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UnderArmour</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>79</xmin>
+			<xmax>389</xmax>
+			<ymin>95</ymin>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

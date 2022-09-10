@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>puma5_jpg.rf.e846db097f8d6a6b1d57dc798331a633.jpg</filename>
+	<path>puma5_jpg.rf.e846db097f8d6a6b1d57dc798331a633.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>258</xmin>
+			<xmax>288</xmax>
+			<ymin>221</ymin>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
